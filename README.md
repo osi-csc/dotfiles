@@ -1,1 +1,1 @@
-Configuration files for tmux and neovim
+This is a different README that doesn't hold any value.
